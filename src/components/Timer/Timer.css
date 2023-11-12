@@ -1,0 +1,22 @@
+/* .timer {
+  background-color: #0762cd;
+  color: #fff;
+}
+.icon {
+  margin: 15px auto;
+  display: block;
+}
+.boxer {
+  background-color: #0c396e !important;
+} */
+.timer {
+  background-color: #0762cd;
+  color: #fff;
+}
+.timer .icon {
+  margin: 15px auto;
+  display: block;
+}
+.timer .box {
+  background-color: #0c396e !important;
+}

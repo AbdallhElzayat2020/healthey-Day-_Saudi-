@@ -1,0 +1,41 @@
+.sliderMain {
+  background-color: #0c396e !important;
+  padding: 30px;
+  overflow: hidden;
+  text-align: center;
+  margin: auto;
+}
+.sliderMain img {
+  width: auto;
+  height: 250px;
+}
+.sliderMain .one {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.slideImage {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
+.slick-prev:before,
+.slick-next:before {
+  font-size: 25px;
+  color: #fff;
+}
+
+.slick-dots li button:before {
+  font-size: 15px;
+  color: #fff;
+}
+.slick-prev {
+  color: #fff;
+}
+.slick-next {
+  color: #fff;
+}
+.slick-dots li button:before {
+  color: #fff;
+}
